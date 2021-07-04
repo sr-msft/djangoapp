@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'sr-flex-web-app'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_dd1c074264234006aca81851696f30f4 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_be10182f482e487d8f9b0c04df81f972 }}
